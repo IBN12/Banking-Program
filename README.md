@@ -2,7 +2,7 @@
 
 <h3>Cited Information</h3>
 Programming exercise from C++ Programming: From Problem Analysis to Program Design
-</ br>
+
 Author: D.S. Malik
 Edition: Eighth Edition
 Problem: Programming Exercise # 5
@@ -13,6 +13,7 @@ to attract customers as well as meet their specific needs. Two of the most commo
 and checking. Each of these accounts has various options. For example, you may have a savings account that requires 
 no minimum balance but has a lower interest rate. Similarly, you may have a checking account that limits the number
 of checks you may write. Another type of account that is used to save money for the long term is certificate of deposit (CD).
+
 
 Savings accounts: Suppose that the bank offers two types of savings accounts: one that has no minimum balance and a lower 
 interest rate and another that requires a minimum balance and has a higher interst rate.
