@@ -4,8 +4,7 @@
 Programming exercise from C++ Programming: From Problem Analysis to Program Design<br/>
 Author: D.S. Malik<br/>
 Edition: Eighth Edition<br/>
-Problem: Programming Exercise # 5<br/>
-<br/>
+Problem: Programming Exercise # 5
 
 <h3>Synopsis</h3>
 Banks offer various types of accounts, such as savings, checking, certificate of deposit, and money market,
