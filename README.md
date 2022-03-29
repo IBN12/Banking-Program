@@ -1,6 +1,6 @@
 # Banking-Program
 
-<h4>Synopsis</h4>
+<h3>Synopsis</h3>
 Banks offer various types of accounts, such as savings, checking, certificate of deposit, and money market,
 to attract customers as well as meet their specific needs. Two of the most commonly used accounts are savings
 and checking. Each of these accounts has various options. For example, you may have a savings account that requires 
